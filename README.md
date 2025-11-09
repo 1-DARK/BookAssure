@@ -136,7 +136,6 @@ Base44 handles:
 
 ---
 
-## 7. License 📄
-Licensed under the MIT License.
+
 
 
