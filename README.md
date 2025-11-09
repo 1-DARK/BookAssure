@@ -6,6 +6,16 @@ The platform is powered by Base44 (backend, actions, AI agent, database) and a m
 YT Link-https://youtu.be/mXqmgDNCFZ8.
 ---
 
+Proof of concept-
+![3](https://github.com/user-attachments/assets/e29871a5-b57c-4c2b-bcde-77a2a648d36c)
+![1](https://github.com/user-attachments/assets/611e8956-cc2a-4ee7-a38c-27352b6f3bcd)
+![2](https://github.com/user-attachments/assets/a9dc47a5-5089-44f9-a765-a883f091161d)
+![WhatsApp Image 2025-11-09 at 11 28 37 (3)](https://github.com/user-attachments/assets/637b4607-e478-4fb8-88ed-98eabf30264c)
+
+
+---
+
+
 ## 1. Problem ❗
 
 Healthcare clinics in India face long-standing operational inefficiencies:
