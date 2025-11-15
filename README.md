@@ -2,6 +2,7 @@
 -BookAssure is a healthcare SaaS platform that automates patient reminders, reduces appointment no-shows, and helps clinics recover lost revenue through an intelligent confirmation and waitlist system.  
 
 -The platform is powered by Base44 (backend, actions, AI agent, database) and a modern React frontend.
+
 ---
 # Important Note
 
